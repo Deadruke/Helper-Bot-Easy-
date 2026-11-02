@@ -1,1 +1,26 @@
-
+# Секреты
+.env
+.env.*
+!.env.example
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+# Временные видео и аудио
+*.mp4
+*.mov
+*.mkv
+*.mp3
+*.wav
+*.srt
+*.ass
+# Временные файлы
+tmp/
+temp/
+work/
+logs/
+# Системные файлы
+.DS_Store
+Thumbs.db
